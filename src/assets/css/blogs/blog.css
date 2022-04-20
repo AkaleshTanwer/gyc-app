@@ -1,0 +1,117 @@
+/*----------------------- Single blog Css Start --------------------  */
+
+.sigle-blog .post-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.sigle-blog .post-header .author {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sigle-blog .post-header p {
+    color: #313D3F;
+    opacity: 0.5;
+}
+
+.sigle-blog .post-header .author img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.sigle-blog .post-header .name {
+    color: #2f2f7c;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.sigle-blog .authorDetails .position {
+    font-size: 1rem;
+    color: #313D3F;
+}
+
+.sigle-blog .post-header .divider {
+    font-size: 50px;
+    opacity: 0.25;
+}
+
+.sigle-blog .ShareBlock .Content {
+    border-top: 1px solid #D8DEDF;
+    border-bottom: 1px solid #D8DEDF;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.sigle-blog .ShareBlock .socialicons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sigle-blog .ShareBlock .socialicons a {
+    color: #fff;
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    transition: all 0.5s;
+}
+
+.sigle-blog .ShareBlock .socialicons .facebook {
+    background-color: #3b5998;
+}
+
+.sigle-blog .ShareBlock .socialicons .twitter {
+    background-color: #55acee;
+}
+
+.sigle-blog .ShareBlock .socialicons .linkedin {
+    background-color: #0976b4;
+}
+
+.sigle-blog .ShareBlock .socialicons .whatsapp {
+    background-color: #25D366;
+}
+
+.sigle-blog .ShareBlock .socialicons a:hover {
+    transform: rotate(360deg) scale(1.3);
+}
+
+.sigle-blog .ShareBlock .sharetext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.sigle-blog .ShareBlock .Title {
+    font-weight: 800;
+    color: #127e3f;
+    font-size: 25px;
+}
+
+@media screen and (max-width:425px) {
+    .sigle-blog .post-header {
+        align-items: normal;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .sigle-blog .post-header .divider {
+        display: none;
+    }
+    .sigle-blog .post-header .author {
+        margin: 10px 0;
+    }
+}
+
+
+/*----------------------- Single Blog css end --------------------  */

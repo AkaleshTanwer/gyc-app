@@ -1,0 +1,46 @@
+.page-404 .bg-404::before {
+    position: absolute;
+    content: "";
+    background-image: url("../image/errorpage/error404.gif");
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: -1;
+    left: 0;
+}
+
+.bg-404 {
+    position: relative;
+    width: 100%;
+    height: 400px;
+}
+
+.bg-404 img {
+    width: 100%;
+}
+
+.bg-404 .heading {
+    font-size: 80px;
+    opacity: 0.5;
+    color: #127e3f;
+}
+
+.page-404 .backtohome {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.backtohome .homebtn {
+    border-color: #127e3f;
+    color: #127e3f;
+    transition: background-color 0.8s, color 0.8s;
+}
+
+.backtohome .homebtn:hover {
+    background-color: #127e3f;
+    color: #fff;
+}

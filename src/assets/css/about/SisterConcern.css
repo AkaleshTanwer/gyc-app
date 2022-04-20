@@ -1,0 +1,55 @@
+#Sister_Concerns {
+    padding: 50px;
+    background-color: aliceblue;
+}
+
+.Sister_Concerns {
+    padding: 50px;
+    background-color: aliceblue;
+}
+
+.Sister_Concerns h1 {
+    font-weight: 800;
+    margin: 20px 0px;
+}
+
+.Sister_Concerns div {
+    margin: 30px 0px;
+    padding: 0 40px;
+}
+
+.Sister_Concerns p b {
+    font-size: 20px;
+}
+
+.Sister_Concerns a {
+    font-size: 20px;
+    text-decoration: none;
+    color: #ffa500;
+    font-weight: 600;
+}
+
+
+/* / ===================================== / */
+
+
+/* / ==============1440=================== / */
+
+
+/* / ===================================== / */
+
+@media screen and (max-width: 1440px) {
+    .Our_Process_card h4 {
+        display: flex;
+        padding: 40px;
+        line-height: 25px;
+        text-align: center;
+        align-items: center;
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+        background-color: #ffa500;
+        line-height: 35px;
+        font-weight: 800;
+    }
+}

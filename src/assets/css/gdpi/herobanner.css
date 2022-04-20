@@ -1,0 +1,59 @@
+.gdpi {
+    background-color: black;
+    position: relative;
+    padding: 10px 0;
+    z-index: -2;
+}
+
+.gdpi .hero-banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.gdpi .hero-banner::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    background-attachment: fixed;
+    z-index: -1;
+}
+
+.gd .hero-banner::before {
+    background-image: url("../../image/gdpi/herobanner.jpeg");
+}
+
+.pi .hero-banner::before {
+    background-image: url("../../image/gdpi/herobanner.jpeg");
+}
+
+.exam .hero-banner::before {
+    background-image: url("../../image/exam/banner.webp");
+}
+
+.gdpi .text-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    text-align: center;
+}
+
+.sample-video .container {
+    width: 60%;
+}
+
+::marker {
+    color: #ffa500;
+}
