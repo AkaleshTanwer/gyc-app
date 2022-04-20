@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/gyc-app/static/css/main.4f3c9b11.css",
+    "main.js": "/gyc-app/static/js/main.1beb7d95.js",
+    "static/media/error404.gif": "/gyc-app/static/media/error404.181c5a6430bcb77324b1.gif",
+    "static/media/slider3.jpg": "/gyc-app/static/media/slider3.86214080e332379e1981.jpg",
+    "static/media/SI2.png": "/gyc-app/static/media/SI2.1f4986445bb398840787.png",
+    "static/media/SI4.png": "/gyc-app/static/media/SI4.b1b934a7c212f240d033.png",
+    "static/media/SI1.png": "/gyc-app/static/media/SI1.7e5eaad8310173d4b940.png",
+    "static/media/testimonial.jpeg": "/gyc-app/static/media/testimonial.2d82f34e0fc10d215df7.jpeg",
+    "static/media/SI3.png": "/gyc-app/static/media/SI3.94a42e98964b25e2618c.png",
+    "static/media/herobanner.jpeg": "/gyc-app/static/media/herobanner.cbb6717d80069e384aba.jpeg",
+    "static/media/collegelist2.jpeg": "/gyc-app/static/media/collegelist2.964d8a50bbb2c0faa2fa.jpeg",
+    "static/media/collegelist1.jpeg": "/gyc-app/static/media/collegelist1.77f027047cb69d90a9ab.jpeg",
+    "static/media/collegelist3.jpeg": "/gyc-app/static/media/collegelist3.be440d20fde7fbdc82c1.jpeg",
+    "static/media/computrer-with-team.jpg": "/gyc-app/static/media/computrer-with-team.656c462c499762fe8996.jpg",
+    "static/media/Sage_University_logo.png": "/gyc-app/static/media/Sage_University_logo.c5caca76764977679372.png",
+    "static/media/project-enalicece.jpg": "/gyc-app/static/media/project-enalicece.20d5c915a208a53b3fce.jpg",
+    "static/media/banner.webp": "/gyc-app/static/media/banner.a9dd3d22ce02b92d7e62.webp",
+    "static/media/computer1.jpg": "/gyc-app/static/media/computer1.2547b24e6fb5a2f06534.jpg",
+    "static/media/computer.jpg": "/gyc-app/static/media/computer.4e96287cdad457fc1bb1.jpg",
+    "static/media/gyclogo.png": "/gyc-app/static/media/gyclogo.ebcf3615e9e070f8be2b.png",
+    "static/media/malwa1.jpg": "/gyc-app/static/media/malwa1.e0d8948e3556354b7093.jpg",
+    "static/media/director1.jpg": "/gyc-app/static/media/director1.1abfc171a5fe3fea14d2.jpg",
+    "static/media/SLD.jpg": "/gyc-app/static/media/SLD.83bfd8d740b450dfc7cd.jpg",
+    "static/media/slick.svg": "/gyc-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/gyc-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/gyc-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/gyc-app/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/gyc-app/index.html",
+    "static/media/careerbg.svg": "/gyc-app/static/media/careerbg.7f66381cfbcc5dd9bdaa.svg",
+    "main.4f3c9b11.css.map": "/gyc-app/static/css/main.4f3c9b11.css.map",
+    "main.1beb7d95.js.map": "/gyc-app/static/js/main.1beb7d95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f3c9b11.css",
+    "static/js/main.1beb7d95.js"
+  ]
+}
