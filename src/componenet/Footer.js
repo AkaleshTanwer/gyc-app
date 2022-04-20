@@ -14,12 +14,12 @@ function Footer() {
                     <div className="col-md-6">
                       <h2 className="ftco-heading-2">Head Office</h2>
                       <ul style={{ paddingLeft: 0 }}>
-                        <li><a href="#"><span className="text">302, Balaji Corporate House, Above ICICI Bank,</span></a></li>
-                        <li><a href="#"><span className="text">Zanzeerwala Square, New Palasia, Indore,</span></a></li>
-                        <li><a href="#"><span className="text">Madhya Pradesh</span></a></li>
-                        <li><a href="#"><span className="icon icon-phone" /><span className="text">Phone: 0731-4904343,</span></a></li>
-                        <li><a href="#"><span className="icon icon-phone" /><span className="text">Mobile: +91 9770501606</span></a></li>
-                        {/* <li><a href="#"><span className="icon icon-envelope" /><span className="text">info@yourdomain.com</span></a></li> */}
+                        <li><a href="/#"><span className="text">302, Balaji Corporate House, Above ICICI Bank,</span></a></li>
+                        <li><a href="/#"><span className="text">Zanzeerwala Square, New Palasia, Indore,</span></a></li>
+                        <li><a href="/#"><span className="text">Madhya Pradesh</span></a></li>
+                        <li><a href="/#"><span className="icon icon-phone" /><span className="text">Phone: 0731-4904343,</span></a></li>
+                        <li><a href="/#"><span className="icon icon-phone" /><span className="text">Mobile: +91 9770501606</span></a></li>
+                        {/* <li><a href="/#"><span className="icon icon-envelope" /><span className="text">info@yourdomain.com</span></a></li> */}
                         {/* <li><span className="icon icon-map-marker" /><span className="text">203 Fake St. Mountain
                     View, San Francisco, California, USA</span></li> */}
                       </ul>
@@ -29,12 +29,12 @@ function Footer() {
                       <h2 className="ftco-heading-2">Branch Office</h2>
 
                       <ul style={{ paddingLeft: 0 }}>
-                        <li><a href="#"><span className="text">F -2 R-18, Aastha Square, Yudhishter Marg,</span></a></li>
-                        <li><a href="#"><span className="text">C- Scheme, Jaipur,</span></a></li>
-                        <li><a href="#"><span className="text">Rajasthan</span></a></li>
-                        <li><a href="#"><span className="icon icon-phone" /><span className="text">Contact Person: Reema Jain</span></a></li>
-                        <li><a href="#"><span className="icon icon-phone" /><span className="text">Mobile: +91 7737080773</span></a></li>
-                        {/* <li><a href="#"><span className="icon icon-envelope" /><span className="text">info@yourdomain.com</span></a></li> */}
+                        <li><a href="/#"><span className="text">F -2 R-18, Aastha Square, Yudhishter Marg,</span></a></li>
+                        <li><a href="/#"><span className="text">C- Scheme, Jaipur,</span></a></li>
+                        <li><a href="/#"><span className="text">Rajasthan</span></a></li>
+                        <li><a href="/#"><span className="icon icon-phone" /><span className="text">Contact Person: Reema Jain</span></a></li>
+                        <li><a href="/#"><span className="icon icon-phone" /><span className="text">Mobile: +91 7737080773</span></a></li>
+                        {/* <li><a href="/#"><span className="icon icon-envelope" /><span className="text">info@yourdomain.com</span></a></li> */}
                         {/* <li><span className="icon icon-map-marker" /><span className="text">203 Fake St. Mountain
                     View, San Francisco, California, USA</span></li> */}
                       </ul>
@@ -50,24 +50,24 @@ function Footer() {
                 <div className="block-21 mb-4 d-flex">
                   <a className="blog-img mr-4" style={{ "backgroundImage": "url(images/image_1.jpg)" }} />
                   <div className="text">
-                    <h3 className="heading"><a href="#">Even the all-powerful Pointing has no control about</a>
+                    <h3 className="heading"><a href="/#">Even the all-powerful Pointing has no control about</a>
                     </h3>
                     <div className="meta">
-                      <div><a href="#"><span className="icon-calendar" /> June 27, 2019</a></div>
-                      <div><a href="#"><span className="icon-person" /> Admin</a></div>
-                      <div><a href="#"><span className="icon-chat" /> 19</a></div>
+                      <div><a href="/#"><span className="icon-calendar" /> June 27, 2019</a></div>
+                      <div><a href="/#"><span className="icon-person" /> Admin</a></div>
+                      <div><a href="/#"><span className="icon-chat" /> 19</a></div>
                     </div>
                   </div>
                 </div>
                 <div className="block-21 mb-5 d-flex">
                   <a className="blog-img mr-4" style={{ "backgroundImage": "url(images/image_2.jpg)" }} />
                   <div className="text">
-                    <h3 className="heading"><a href="#">Even the all-powerful Pointing has no control about</a>
+                    <h3 className="heading"><a href="/#">Even the all-powerful Pointing has no control about</a>
                     </h3>
                     <div className="meta">
-                      <div><a href="#"><span className="icon-calendar" /> June 27, 2019</a></div>
-                      <div><a href="#"><span className="icon-person" /> Admin</a></div>
-                      <div><a href="#"><span className="icon-chat" /> 19</a></div>
+                      <div><a href="/#"><span className="icon-calendar" /> June 27, 2019</a></div>
+                      <div><a href="/#"><span className="icon-person" /> Admin</a></div>
+                      <div><a href="/#"><span className="icon-chat" /> 19</a></div>
                     </div>
                   </div>
                 </div>
@@ -103,9 +103,9 @@ function Footer() {
               <div className="ftco-footer-widget mb-5">
                 <h2 className="  mb-0">Connect With Us</h2>
                 <ul className="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
-                  <li className="ftco-animate fadeInUp ftco-animated"><a href="#"><span className="icon-twitter" /> <i className="fa-brands fa-twitter"></i></a></li>
-                  <li className="ftco-animate fadeInUp ftco-animated"><a href="#"><span className="icon-facebook" /> <i className="fa-brands fa-facebook"></i></a></li>
-                  <li className="ftco-animate fadeInUp ftco-animated"><a href="#"><span className="icon-instagram" /> <i className="fa-brands fa-instagram"></i></a></li>
+                  <li className="ftco-animate fadeInUp ftco-animated"><a href="/#"><span className="icon-twitter" /> <i className="fa-brands fa-twitter"></i></a></li>
+                  <li className="ftco-animate fadeInUp ftco-animated"><a href="/#"><span className="icon-facebook" /> <i className="fa-brands fa-facebook"></i></a></li>
+                  <li className="ftco-animate fadeInUp ftco-animated"><a href="/#"><span className="icon-instagram" /> <i className="fa-brands fa-instagram"></i></a></li>
                 </ul>
               </div>
             </div>

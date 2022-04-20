@@ -23,9 +23,9 @@ function Director() {
                             {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
                             <h4>
                                 <ul>
-                                    <li>  <a href="#"><i className="fa-brands fa-twitter"></i></a> </li>
-                                    <li> <a href="#"><i className="fa-brands fa-facebook"></i></a> </li>
-                                    <li> <a href="#"><i className="fa-brands fa-linkedin"></i></a> </li>
+                                    <li>  <a href="/#"><i className="fa-brands fa-twitter"></i></a> </li>
+                                    <li> <a href="/#"><i className="fa-brands fa-facebook"></i></a> </li>
+                                    <li> <a href="/#"><i className="fa-brands fa-linkedin"></i></a> </li>
                                 </ul>
                             </h4>
                         </div>
@@ -44,9 +44,9 @@ function Director() {
                             {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
                             <h4>
                                 <ul>
-                                    <li>  <a href="#"><i className="fa-brands fa-twitter"></i></a> </li>
-                                    <li> <a href="#"><i className="fa-brands fa-facebook"></i></a> </li>
-                                    <li> <a href="#"><i className="fa-brands fa-linkedin"></i></a> </li>
+                                    <li>  <a href="/#"><i className="fa-brands fa-twitter"></i></a> </li>
+                                    <li> <a href="/#"><i className="fa-brands fa-facebook"></i></a> </li>
+                                    <li> <a href="/#"><i className="fa-brands fa-linkedin"></i></a> </li>
                                 </ul>
                             </h4>
                         </div>

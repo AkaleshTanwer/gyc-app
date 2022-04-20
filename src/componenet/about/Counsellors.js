@@ -22,9 +22,9 @@ function Counsellors() {
                             <p>Position</p>
                             <h4>
                                 <ul>
-                                    <li>  <a href="#"><i className="fa-brands fa-twitter"></i></a> </li>
-                                    <li> <a href="#"><i className="fa-brands fa-facebook"></i></a> </li>
-                                    <li> <a href="#"><i className="fa-brands fa-linkedin"></i></a> </li>
+                                    <li>  <a href="/#"><i className="fa-brands fa-twitter"></i></a> </li>
+                                    <li> <a href="/#"><i className="fa-brands fa-facebook"></i></a> </li>
+                                    <li> <a href="/#"><i className="fa-brands fa-linkedin"></i></a> </li>
                                 </ul>
                             </h4>
                         </div>
@@ -44,9 +44,9 @@ function Counsellors() {
                             <p>Position</p>
                             <h4>
                                 <ul>
-                                    <li>  <a href="#"><i className="fa-brands fa-twitter"></i></a> </li>
-                                    <li> <a href="#"><i className="fa-brands fa-facebook"></i></a> </li>
-                                    <li> <a href="#"><i className="fa-brands fa-linkedin"></i></a> </li>
+                                    <li>  <a href="/#"><i className="fa-brands fa-twitter"></i></a> </li>
+                                    <li> <a href="/#"><i className="fa-brands fa-facebook"></i></a> </li>
+                                    <li> <a href="/#"><i className="fa-brands fa-linkedin"></i></a> </li>
                                 </ul>
                             </h4>
                         </div>

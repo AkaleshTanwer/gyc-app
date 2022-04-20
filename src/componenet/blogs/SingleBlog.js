@@ -86,16 +86,16 @@ const SingleBlog = () => {
                                         <span className="Title">Share:</span>
                                     </div>
                                     <div className='col-9 col-md-6 socialicons'>
-                                        <a href="" className='facebook'>
+                                        <a href="/#" className='facebook'>
                                             <i className="fa-brands fa-facebook-f"></i>
                                         </a>
-                                        <a href="" className='twitter'>
+                                        <a href="/#" className='twitter'>
                                             <i className="fa-brands fa-twitter"></i>
                                         </a>
-                                        <a href="" className='linkedin' >
+                                        <a href="/#" className='linkedin' >
                                             <i className="fa-brands fa-linkedin-in"></i>
                                         </a>
-                                        <a href="" className='whatsapp'>
+                                        <a href="/#" className='whatsapp'>
                                             <i className="fa-brands fa-whatsapp"></i>
                                         </a>
 

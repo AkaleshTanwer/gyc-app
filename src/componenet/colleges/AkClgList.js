@@ -27,8 +27,8 @@ function AkClgList() {
                                 <div className='card-content'>
                                     <p className='text-content'> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias voluptatibus ducimus blanditiis alias in quis quidem aperiam tempora, sit nemo!</p>
                                     <div className='redirection'>
-                                        <a href="#" className='readmore'><h6>Read More</h6> </a>
-                                        <a href="#"><button type='button' className='btn btn-outline-success apply-btn shadow-lg' onClick={onOpenModel}>Apply Now</button></a>
+                                        <a href="/#" className='readmore'><h6>Read More</h6> </a>
+                                        <a href="/#"><button type='button' className='btn btn-outline-success apply-btn shadow-lg' onClick={onOpenModel}>Apply Now</button></a>
                                     </div>
                                 </div>
                             </div>
@@ -45,8 +45,8 @@ function AkClgList() {
                                 <div className='card-content'>
                                     <p className='text-content'> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias voluptatibus ducimus blanditiis alias in quis quidem aperiam tempora, sit nemo!</p>
                                     <div className='redirection'>
-                                        <a href="#" className='readmore'><h6>Read More</h6> </a>
-                                        <a href="#"><button type='button' className='btn btn-outline-success apply-btn shadow-lg' onClick={onOpenModel}>Apply Now</button></a>
+                                        <a href="/#" className='readmore'><h6>Read More</h6> </a>
+                                        <a href="/#"><button type='button' className='btn btn-outline-success apply-btn shadow-lg' onClick={onOpenModel}>Apply Now</button></a>
                                     </div>
                                 </div>
                             </div>
@@ -63,8 +63,8 @@ function AkClgList() {
                                 <div className='card-content'>
                                     <p className='text-content'> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias voluptatibus ducimus blanditiis alias in quis quidem aperiam tempora, sit nemo!</p>
                                     <div className='redirection'>
-                                        <a href="#" className='readmore'><h6>Read More</h6> </a>
-                                        <a href="#"><button type='button' className='btn btn-outline-success apply-btn shadow-lg' onClick={onOpenModel}>Apply Now</button></a>
+                                        <a href="/#" className='readmore'><h6>Read More</h6> </a>
+                                        <a href="/#"><button type='button' className='btn btn-outline-success apply-btn shadow-lg' onClick={onOpenModel}>Apply Now</button></a>
                                     </div>
                                 </div>
                             </div>
@@ -81,8 +81,8 @@ function AkClgList() {
                                 <div className='card-content'>
                                     <p className='text-content'> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias voluptatibus ducimus blanditiis alias in quis quidem aperiam tempora, sit nemo!</p>
                                     <div className='redirection'>
-                                        <a href="#" className='readmore'><h6>Read More</h6> </a>
-                                        <a href="#"><button type='button' className='btn btn-outline-success apply-btn shadow-lg' onClick={onOpenModel}>Apply Now</button></a>
+                                        <a href="/#" className='readmore'><h6>Read More</h6> </a>
+                                        <a href="/#"><button type='button' className='btn btn-outline-success apply-btn shadow-lg' onClick={onOpenModel}>Apply Now</button></a>
                                     </div>
                                 </div>
                             </div>
@@ -99,8 +99,8 @@ function AkClgList() {
                                 <div className='card-content'>
                                     <p className='text-content'> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias voluptatibus ducimus blanditiis alias in quis quidem aperiam tempora, sit nemo!</p>
                                     <div className='redirection'>
-                                        <a href="#" className='readmore'><h6>Read More</h6> </a>
-                                        <a href="#"><button type='button' className='btn btn-outline-success apply-btn shadow-lg' onClick={onOpenModel} >Apply Now</button></a>
+                                        <a href="/#" className='readmore'><h6>Read More</h6> </a>
+                                        <a href="/#"><button type='button' className='btn btn-outline-success apply-btn shadow-lg' onClick={onOpenModel} >Apply Now</button></a>
                                     </div>
                                 </div>
                             </div>
@@ -117,8 +117,8 @@ function AkClgList() {
                                 <div className='card-content'>
                                     <p className='text-content'> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias voluptatibus ducimus blanditiis alias in quis quidem aperiam tempora, sit nemo!</p>
                                     <div className='redirection'>
-                                        <a href="#" className='readmore'><h6>Read More</h6> </a>
-                                        <a href="#"><button type='button' className='btn btn-outline-success apply-btn shadow-lg' onClick={onOpenModel}>Apply Now</button></a>
+                                        <a href="/#" className='readmore'><h6>Read More</h6> </a>
+                                        <a href="/#"><button type='button' className='btn btn-outline-success apply-btn shadow-lg' onClick={onOpenModel}>Apply Now</button></a>
                                     </div>
                                 </div>
                             </div>
