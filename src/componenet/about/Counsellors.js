@@ -5,7 +5,7 @@ function Counsellors() {
     return (
         <section>
             <div className='container AboutDirectors px-3'>
-                <h1 className='text-center'>Counsellors</h1>
+                {/* <h1 className='text-center'>Counsellors</h1> */}
                 <div className='row justify-content-around'>
                     <div data-aos="fade-up" data-aos-duration="3000" className='  p-lg-4 px-md-5 px-sm-2 px-5 col-lg-4 col-md-6  col-sm-6  my-3'>
                         <div className="card " >
@@ -14,17 +14,17 @@ function Counsellors() {
                             </div>
                             <div className="card-text">
                                 {/* <h5 className="card-heading"><i className="fa-solid fa-graduation-cap"></i><br /> Please Write <br /> College Name </h5> */}
-                                <p>Senior psychologist and Counsellor A postgraduate in psychology from the Devi Ahilya Vishwavidyalaya, Indore, She is also a Certified Psychometric Test professional from ME consultants in collaboration with CAMI, USA, she has been offering counseling to children , adolescent teens and adults for the past several years. She has played an important role in shaping the lives of number of students by giving them the right direction in careers, through her career counseling sessions.</p>
+                                <p>Reema Jain, having degree in Management and Law with 10 years plus experience as an academician, mentor, speaker and counselor has trained and counseled over 10000 Students. She is working with young adults to develop realistic and financially feasible college plans. She has immense passion and dedication in delivering the best options to each of her student. She is professional and motivational speaker and conducts counselling sessions, workshop, presentation, seminars and individual interactions to mentor students.</p>
                             </div>
                         </div>
                         <div className="card_bio">
-                            <h5>Counsellor Name</h5>
-                            <p>Position</p>
+                            <h5>Reema Jain </h5>
+                            <p>Branch Head, Jaipur</p>
                             <h4>
                                 <ul>
-                                    <li>  <a href="/#"><i className="fa-brands fa-twitter"></i></a> </li>
-                                    <li> <a href="/#"><i className="fa-brands fa-facebook"></i></a> </li>
-                                    <li> <a href="/#"><i className="fa-brands fa-linkedin"></i></a> </li>
+                                    <li>  <a href="#"><i className="fa-brands fa-twitter"></i></a> </li>
+                                    <li> <a href="#"><i className="fa-brands fa-facebook"></i></a> </li>
+                                    <li> <a href="#"><i className="fa-brands fa-linkedin"></i></a> </li>
                                 </ul>
                             </h4>
                         </div>
@@ -36,17 +36,17 @@ function Counsellors() {
                             </div>
                             <div className="card-text">
                                 {/* <h5 className="card-heading"><i className="fa-solid fa-graduation-cap"></i><br /> Please Write <br /> College Name </h5> */}
-                                <p>Senior psychologist and Counsellor A postgraduate in psychology from the Devi Ahilya Vishwavidyalaya, Indore, She is also a Certified Psychometric Test professional from ME consultants in collaboration with CAMI, USA, she has been offering counseling to children , adolescent teens and adults for the past several years. She has played an important role in shaping the lives of number of students by giving them the right direction in careers, through her career counseling sessions.</p>
+                                <p>A postgraduate in psychology from the Devi Ahilya Vishwavidyalaya, Indore, She is also a Certified Psychometric Test professional from ME consultants in collaboration with CAMI, USA, she has been offering counseling to children, adolescent teens, and adults for the past several years. She has played an important role in shaping the lives of a number of students by giving them the right direction in careers, through her career counseling sessions.</p>
                             </div>
                         </div>
                         <div className="card_bio">
-                            <h5>Counsellor Name</h5>
-                            <p>Position</p>
+                            <h5>Dabholkar Madhavi </h5>
+                            <p>Sr. Career Counselor</p>
                             <h4>
                                 <ul>
-                                    <li>  <a href="/#"><i className="fa-brands fa-twitter"></i></a> </li>
-                                    <li> <a href="/#"><i className="fa-brands fa-facebook"></i></a> </li>
-                                    <li> <a href="/#"><i className="fa-brands fa-linkedin"></i></a> </li>
+                                    <li>  <a href="#"><i className="fa-brands fa-twitter"></i></a> </li>
+                                    <li> <a href="#"><i className="fa-brands fa-facebook"></i></a> </li>
+                                    <li> <a href="#"><i className="fa-brands fa-linkedin"></i></a> </li>
                                 </ul>
                             </h4>
                         </div>
