@@ -13,9 +13,9 @@ function Home() {
             <Header />
             <HomeSlider />
             <VideoSlider />
-            <BlogSlider />
-            <Testimonials />
             <AssociatedCollegeLogo />
+            <Testimonials />
+            <BlogSlider />
             <Footer />
 
         </div>
