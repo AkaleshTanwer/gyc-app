@@ -35,7 +35,7 @@ ul {
 }
 
 .hide-navbar {
-    top: -100%
+    top: -100%;
 }
 
 .wrapper nav {
@@ -255,8 +255,22 @@ ul ul ul {
     overflow-y: auto;
 }
 
+::-webkit-scrollbar {
+    width: 10px;
+}
+
 ul ul ul::-webkit-scrollbar {
     width: 7px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #127e3f;
+    border-radius: 10px;
 }
 
 li:hover>ul {
