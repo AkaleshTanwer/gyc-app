@@ -9,8 +9,6 @@ import BlogCard from "./BlogCard"
 const BlogSlider = () => {
     const blogsSettings = {
         centerPadding: "60px",
-        arrows: false,
-        dots: true,
         speed: 1000,
         slidesToShow: 3,
         slidesToScroll: 1,
