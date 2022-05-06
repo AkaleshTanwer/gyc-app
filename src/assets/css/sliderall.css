@@ -104,20 +104,19 @@ Green: #127e3f */
   box-sizing: border-box;
 }
 .video-slider .lhs .marquee {
-  top: 20px;
+  top: 100%;
   position: relative;
-  animation: marquee 5s linear infinite;
+  animation: marquee 10s linear infinite;
 }
 .video-slider .lhs .marquee:hover {
   animation-play-state: paused;
 }
 @keyframes marquee {
-  0% {
-    top: 3%;
+  from {
+    transform: translateY(0);
   }
-
-  100% {
-    top: -100%;
+  to {
+    transform: translateY(-150%);
   }
 }
 /* .video-slider .slick-slide>div {
